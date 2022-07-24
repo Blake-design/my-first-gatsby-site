@@ -1,8 +1,8 @@
 {
-  "name": "my-first-gatsby-site",
+  "name": "my-gatsby-site",
   "version": "1.0.0",
   "private": true,
-  "description": "my-first-gatsby-site",
+  "description": "my-gatsby-site",
   "author": "Blake McCarty",
   "keywords": [
     "gatsby"
@@ -22,8 +22,7 @@
     "gatsby-plugin-mdx": "^3.19.0",
     "gatsby-plugin-sharp": "^4.19.0",
     "gatsby-source-filesystem": "^4.19.0",
-    "install": "^0.13.0",
-    "npm": "^8.15.0",
+    "gatsby-transformer-sharp": "^4.19.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
